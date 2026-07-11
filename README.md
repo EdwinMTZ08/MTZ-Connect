@@ -2,9 +2,6 @@
 practica de paginas web y practicas  de analisis informatico forense digital 
 
 ## 📁 Demostración del Funcionamiento
-A continuación se presenta el registro en video del correcto despliegue del entorno y la mitigación del ataque:
-
-* [🎥 Video: Adquisición forense y análisis con Autopsy](URL_DE_TU_VIDEO)
 # Laboratorios de Informática Forense y Preservación de Evidencia Digital
 
 Este repositorio contiene la documentación, metodologías y demostraciones en video de las prácticas de informática forense realizadas en entornos controlados de Linux (Kali Linux) y Windows. El objetivo de estos laboratorios es aplicar los principios de la Guía NIST y las mejores prácticas en la adquisición y recuperación de datos de manera íntegra.
